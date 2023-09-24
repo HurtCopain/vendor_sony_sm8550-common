@@ -237,7 +237,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/sm8550-common/proprietary/vendor/bin/ta_qmi_service:$(TARGET_COPY_OUT_VENDOR)/bin/ta_qmi_service \
     vendor/sony/sm8550-common/proprietary/vendor/bin/tad:$(TARGET_COPY_OUT_VENDOR)/bin/tad \
     vendor/sony/sm8550-common/proprietary/vendor/bin/tftp_server:$(TARGET_COPY_OUT_VENDOR)/bin/tftp_server \
-    vendor/sony/sm8550-common/proprietary/vendor/bin/thermal-engine-v2:$(TARGET_COPY_OUT_VENDOR)/bin/thermal-engine-v2 \
     vendor/sony/sm8550-common/proprietary/vendor/bin/time_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/time_daemon \
     vendor/sony/sm8550-common/proprietary/vendor/bin/trusteduilistener:$(TARGET_COPY_OUT_VENDOR)/bin/trusteduilistener \
     vendor/sony/sm8550-common/proprietary/vendor/bin/vendor.dpmd:$(TARGET_COPY_OUT_VENDOR)/bin/vendor.dpmd \
@@ -379,7 +378,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/sm8550-common/proprietary/vendor/etc/init/init.taqmi.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.taqmi.rc \
     vendor/sony/sm8550-common/proprietary/vendor/etc/init/init.time_daemon.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.time_daemon.rc \
     vendor/sony/sm8550-common/proprietary/vendor/etc/init/init.vendor.sensors.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init.vendor.sensors.rc \
-    vendor/sony/sm8550-common/proprietary/vendor/etc/init/init_thermal-engine-v2.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/init_thermal-engine-v2.rc \
     vendor/sony/sm8550-common/proprietary/vendor/etc/init/ipa_fws.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/ipa_fws.rc \
     vendor/sony/sm8550-common/proprietary/vendor/etc/init/ipacm-diag.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/ipacm-diag.rc \
     vendor/sony/sm8550-common/proprietary/vendor/etc/init/loc-launcher.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/loc-launcher.rc \
